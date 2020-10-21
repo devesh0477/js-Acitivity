@@ -1,0 +1,27 @@
+.Container {
+    
+    width: 75%;
+    margin: 0 auto; 
+    text-align: center;
+}
+
+.flexContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+
+}
+
+.flexContainer img {
+    height: 300px;
+    padding: 20px;
+    box-shadow: 5px 10px 8px #888888;
+
+
+}
+
+#activity {
+    height: 200px;
+    width: 450px;
+}
